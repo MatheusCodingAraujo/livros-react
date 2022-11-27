@@ -1,6 +1,7 @@
 import Logo from '../logo'
 import Opcoes from '../opcoesHeader'
 import Icons from '../iconesHeader'
+import './style.css'
 
 function Header(){
     return(
