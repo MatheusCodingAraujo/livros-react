@@ -1,0 +1,10 @@
+.header{
+    background-image: linear-gradient(90deg, white 35%,#002f52 165%);
+    display: flex;
+    justify-content: center;
+  }
+  
+  li{
+    list-style: none;
+  }
+  
